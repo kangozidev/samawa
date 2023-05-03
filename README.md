@@ -1,2 +1,2 @@
 # samawa
-WhatsApp Web Management for Blast Send Message 
+WhatsApp Blast Send Message Management 
